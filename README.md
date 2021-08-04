@@ -23,7 +23,7 @@ https://github.com/rovo89/XposedInstaller
 https://github.com/ElderDrivers/EdXposedManager  
 ****************************************************************************
 ***注意：从V2.1.0版本开始，软件架构变更，应用分为两个部分，全部安装才可以使用。***  
-***注意：从V2.1.0版本开始，代码文件压缩包名变更为Subsysmgr-LearbPlus-<版本号>.zip。***  
+***注意：从V2.1.0版本开始，代码文件压缩包名变更为Subsysmgr-LearnPlus-<版本号>.zip。***  
 ***注意：从V2.1.0版本开始，安装包文件名变更为app-release-<版本号>.apk***  
 ***注意：此项目另一部分的仓库地址为以下网址。***  
 ***https://github.com/wyq0918dev/Subsysmgr***  
