@@ -7,7 +7,7 @@ LearnPlus是Aid Learning的增强工具。
 ***警告！此应用严禁用于非法用途！不听劝阻，后果自负！***
 ****************************************************************************
 *该项目使用Android Studio主要基于Java语言编写。*  
-**注:其他涉及语言:JavaScript,HTML,C/C++。*  
+**注:其他涉及语言:Kotlin,JavaScript,HTML,C/C++。*  
 
 项目文件详细介绍：  
 Shizuku-Subsysmgr-x.x.x.zip或LearnPlus-x.x.x.zip是Vx.x.x版本的代码压缩包。  
