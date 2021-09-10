@@ -6,8 +6,8 @@ LearnPlus是Aid Learning的增强工具。
 ***使用此应用前请先阅读以下内容。***  
 ***警告！此应用严禁用于非法用途！不听劝阻，后果自负！***
 ****************************************************************************
-*该项目使用Android Studio主要基于Java语言编写。*  
-**注:其他涉及语言:Kotlin,JavaScript,HTML,C/C++。*  
+**该项目使用Android Studio编写。**  
+**涉及语言:Java,Kotlin,JavaScript,HTML,C/C++。**  
 
 项目文件详细介绍：  
 SourceCode目录中的是各个版本的源代码。  
