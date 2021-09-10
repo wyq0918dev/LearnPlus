@@ -10,6 +10,8 @@ LearnPlus是Aid Learning的增强工具。
 **注:其他涉及语言:Kotlin,JavaScript,HTML,C/C++。*  
 
 项目文件详细介绍：  
+SourceCode目录中的是各个版本的源代码。  
+Apk目录是各个版本的安装包。  
 Shizuku-Subsysmgr-x.x.x.zip或LearnPlus-x.x.x.zip是Vx.x.x版本的代码压缩包。  
 demo-release-x.x.x.apk是Vx.x.x版本的安装包。  
 Setup.exe是Shizuku激活工具的安装包。  
