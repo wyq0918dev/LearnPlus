@@ -1,6 +1,6 @@
 # LearnPlus
-## Aid Learning Enhancement Tools
-LearnPlus是Aid Learning的增强工具。  
+## AidLux Enhancement Tools
+LearnPlus是AidLux的增强工具。  
 提高移动端软件开发效率，让安卓设备成为生产力工具。  
 ****************************************************************************
 ***使用此应用前请先阅读以下内容。***  
@@ -25,5 +25,5 @@ Shizuku-API:https://github.com/RikkaApps/Shizuku-API
 ***注意：从V2.1.0版本开始，代码文件压缩包名变更为LearnPlus-<版本号>.zip。***   
 ***注意：使用此应用程序需要安装Aid Learning和Shizuku，请到以下网站下载并安装。***  
 Shizuku:https://github.com/RikkaApps/Shizuku/releases  
-Aid Learning:https://github.com/aidlearning/AidLearning-FrameWork   
+AidLux:https://github.com/aidlearning/AidLearning-FrameWork   
 ***注意：如果您的设备系统API版本<23（系统版本低于Android6.0），很抱歉，您的设备无法运行此应用程序；如果您的设备API版本≧30（Android11及以上）可以直接使用系统的ADB无线调试激活Shizuku，否则请使用激活工具通过PC激活，也可以直接通过PC使用命令激活。***  
