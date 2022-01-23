@@ -19,7 +19,7 @@ Setup.exe是Shizuku激活工具的安装包。
 Xposed Installer:https://github.com/rovo89/XposedInstaller  
 EdXposed Manager:https://github.com/ElderDrivers/EdXposedManager   
 AnyLauncher:https://github.com/tumuyan/AnyLauncher  
-Shizuku-API:https://github.com/RikkaApps/Shizuku-API 
+Shizuku-API:https://github.com/RikkaApps/Shizuku-API  
 UserLAnd:https://github.com/CypherpunkArmory/UserLAnd  
 AndroidUtilCode:https://github.com/Blankj/AndroidUtilCode  
 Termux App:https://github.com/termux/termux-app  
