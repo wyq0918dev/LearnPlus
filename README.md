@@ -1,4 +1,4 @@
-***由于开发者学业原因，此项目暂停维护至2022年6月，目前已归档保护，2022年6月下月下旬恢复正常。***  
+***由于开发者学业原因，此项目暂停维护至2022年6月，2022年6月下月下旬恢复正常。***  
 # LearnPlus
 ## Android Subsystem Manager for Linux
 LearnPlus，业界首款Android下的Linux子系统管理器。  
