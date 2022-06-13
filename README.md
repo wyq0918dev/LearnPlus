@@ -1,4 +1,4 @@
-***由于开发者学业原因，此项目暂停维护至2022年6月，2022年6月下月下旬恢复正常。***  
+***此仓库已弃用，现已启用全新仓库：https://github.com/lposp/LearnPlus***  
 # LearnPlus
 ## Android Subsystem Manager for Linux
 LearnPlus，业界首款Android下的Linux子系统管理器。  
