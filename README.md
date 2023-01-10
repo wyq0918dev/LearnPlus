@@ -1,4 +1,5 @@
 # LearnPlus
+___此项目已停止维护，请前往最新仓库LearnPlusX___
 ## Android Subsystem Manager for Linux
 LearnPlus，业界首款Android下的Linux子系统管理器。  
 ****************************************************************************
